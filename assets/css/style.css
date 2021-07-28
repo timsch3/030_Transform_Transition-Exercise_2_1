@@ -24,7 +24,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #00000099;
+    background-color: #000000bb;
     transition: top 0.5s;
     position: absolute;
     top: 400px;
