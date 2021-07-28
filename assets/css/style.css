@@ -19,6 +19,7 @@ body {
 #container {
     position: relative;
     overflow: hidden;
+    box-shadow: 4px 4px 12px 0 #00000044;
 }
 #overlay {
     display: flex;
